@@ -1,6 +1,5 @@
 # packages-report
-A repo from rstudio::conf 2019 wtf workshop
 
-An edit from Rstudio
+The goal of packages-report is to ...
 
-Another change - from GitHub this time
+umm.... is this thing working???
