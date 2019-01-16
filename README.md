@@ -18,3 +18,6 @@ REGRETS!!!
 
 
 a bunch of random letters alshglashpwrht;sdgk;
+
+
+Remote online stuff 
