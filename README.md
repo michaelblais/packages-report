@@ -26,3 +26,6 @@ Local changes
 =======
 Remote online stuff 
 >>>>>>> 956fb5f56fd6d78918c599ed3d0a5676d187948c
+
+
+ron version
